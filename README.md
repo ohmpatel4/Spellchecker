@@ -4,12 +4,14 @@
 As a home cook looking for inspiration, I want to be able to browse the full list of available recipes, so that I can discover something new when I don’t know what to make.
 
 **Estimate**: 4 days
+
 **Priority**: Medium
 
 ## Feature: Adjust Recipe Servings 6 days
 As a dinner host preparing for a group, I want to be able to change the number of servings in a recipe, so that the ingredient quantities automatically scale to my needs.
 
 **Estimate**: 6 days
+
 **Priority**: Low
 
 ## Feature: Private Recipes 4 days
